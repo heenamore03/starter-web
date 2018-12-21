@@ -16,3 +16,6 @@ how to?
 ## Deploy
 
 deployment
+
+##Copyright
+copyright notice
