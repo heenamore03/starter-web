@@ -10,7 +10,7 @@ adding introduction text info
 Sample website with plenty of files for demos
 
 ## How to Contribute
-
+Please fork this repo and issue pull request 
 how to?
 
 ## Deploy
