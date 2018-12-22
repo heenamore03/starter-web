@@ -19,4 +19,4 @@ how to?
 deployment
 
 ##Copyright
-copyright notice
+copyright notice all rights reserved 
